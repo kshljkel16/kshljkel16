@@ -41,12 +41,6 @@ BiLSTM beat CNN+Attention and Transformer baselines (Δr ≈ 0.04–0.05), and R
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshljkel16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elinaabdikarimova)
